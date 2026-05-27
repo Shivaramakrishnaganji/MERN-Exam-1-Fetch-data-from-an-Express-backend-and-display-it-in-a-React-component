@@ -1,0 +1,10 @@
+.App {
+  padding: 20px;
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.error-message {
+  color: red;
+}
